@@ -14,7 +14,8 @@ public class AppTest
      */
     @Test
     public void shouldAnswerWithTrue()
-    {
+    {   
+    	System.out.println("first git commit");
         assertTrue( true );
     }
 }
