@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {   
-    	System.out.println("first git commit");
+    	System.out.println("third git commit");
         assertTrue( true );
     }
 }
