@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {   
-    	System.out.println("sixth git commit");
+    	System.out.println("seventh git commit");
         assertTrue( true );
     }
 }
